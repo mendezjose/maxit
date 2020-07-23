@@ -260,3 +260,9 @@
 {"level":"info","message":"Connected to mongodb://localhost/maxitalentos...","timestamp":"2020-07-12T03:48:04.362Z"}
 {"level":"info","message":"Listening on port 3900...","timestamp":"2020-07-12T04:58:00.389Z"}
 {"level":"info","message":"Connected to mongodb://localhost/maxitalentos...","timestamp":"2020-07-12T04:58:00.414Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-07-18T02:02:45.540Z"}
+{"level":"info","message":"Connected to mongodb://localhost/maxitalentos...","timestamp":"2020-07-18T02:02:46.035Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-07-22T00:20:09.083Z"}
+{"level":"info","message":"Connected to mongodb://localhost/maxitalentos...","timestamp":"2020-07-22T00:20:09.462Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-07-23T05:40:17.519Z"}
+{"level":"info","message":"Connected to mongodb://localhost/maxitalentos...","timestamp":"2020-07-23T05:40:17.685Z"}
